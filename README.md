@@ -10,3 +10,6 @@ Welcome to the documentation for the Python Online Trainer, part of the Digital 
 - [Data Models](docs/db-models.svg)
 - [Components Overview](docs/components-overview.md)
 - [Application Logic and Flow](docs/logic-and-flow.md)
+
+
+![Database Models](docs/data-model.svg)

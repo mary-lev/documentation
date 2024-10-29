@@ -12,4 +12,4 @@ Welcome to the documentation for the Python Online Trainer, part of the Digital 
 - [Application Logic and Flow](docs/logic-and-flow.md)
 
 
-![Database Models](docs/data-model.svg)
+![Database Models](docs/data_model.svg)
